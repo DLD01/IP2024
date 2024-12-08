@@ -1,5 +1,5 @@
 # IP2024 20201674 배석준
-파이썬 튜토리얼, OpenCV 튜토리얼 코드와 Homework 코드가 업로드 되었습니다.
+파이썬 튜토리얼, OpenCV 튜토리얼 코드와 Homework 코드가 업로드 되었습니다.\n
 코드실행에 필요한 파일도 업로드 되었습니다. 
 ### Homework1
 YouTube -> https://www.youtube.com/watch?v=BpUrxz3BVKg
